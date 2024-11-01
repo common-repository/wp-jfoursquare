@@ -1,0 +1,15 @@
+div.jfoursquare-feed { position: relative; }
+div.jfoursquare-feed li {
+	position: absolute; left: 0; top: 0;
+	list-style-type: none;
+	list-style: none;
+	}
+div.jfoursquare-feed li span { font-size: 10px; }
+
+div.jfoursquare-feed-no-fade { position: relative; }
+div.jfoursquare-feed-no-fade li {
+	position: relative;
+	list-style-type: none;
+	list-style: none;
+	}
+div.jfoursquare-feed-no-fade li span { font-size: 10px; }
